@@ -52,7 +52,8 @@ Output Waveform
 
 Tabular Column
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ddf76d7d-bbcf-4ec4-9d42-a87d77d2e918" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/75f6358a-ef7f-4a40-bd69-aa46ee6a278f" />
+
 
 
 Calculation
