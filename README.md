@@ -47,6 +47,7 @@ plt.subplot(3,1,3)
 plt.plot(t,s)
 
 Output Waveform
+
 <img width="554" height="413" alt="image" src="https://github.com/user-attachments/assets/a2cab6a7-69cc-4ba8-8469-fc439fc1262f" />
 
 Tabular Column
